@@ -1,3 +1,5 @@
+# LAB02 IETI (Intro React)
+
 <p align="center">
   <a href="https://material-ui.com/" rel="noopener" target="_blank"><img width="150" src="https://material-ui.com/static/logo.svg" alt="Material-UI logo"></a></p>
 </p>
@@ -9,7 +11,9 @@
 [![material](https://img.shields.io/badge/dependencies-material--ui-yellow)](https://material-ui.com/)
 [![react-router](https://img.shields.io/badge/dependencies-react--router-blue)](https://reacttraining.com/react-router/)
 
+## AUTHOR
 
+* **JUAN SEBASTIAN DIAZ SALAMANCA** - [Juandiaz960](https://github.com/juandiaz960)
 
 React project using Material-UI library.
 
@@ -250,4 +254,8 @@ This will prevent the user authentication every time!
 4. Run the application and then stop the server and verify the data is persisted.
 
 Tip: You can use the Google Chrome Developer tools under the Application tab to explore the Local Storage. 
+
+## LICENSE
+
+This project is licensed under the GNU General Public License - [LICENSE](LICENSE) 
    
